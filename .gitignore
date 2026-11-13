@@ -1,0 +1,9 @@
+# Large datasets — download from https://archive.ics.uci.edu/dataset/296
+data/diabetic_data.csv
+data/diabetes+130-us+hospitals+for+years+1999-2008.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
