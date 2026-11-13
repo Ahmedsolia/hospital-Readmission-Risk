@@ -5,7 +5,7 @@
 
 **One-liner:** Predict at discharge which diabetic patients will be readmitted within 30 days, so the care team can prioritize follow-up calls/visits — using ~100K real hospital encounters (Diabetes 130-US Hospitals 1999–2008).
 
-**Live app:** run locally with `streamlit run app.py` → deploy to Streamlit Community Cloud / Hugging Face Spaces and paste the public link here. Charts: `assets/roc.png` / `assets/confusion.png`.
+**Live app:** [https://your-actual-url.streamlit.app](https://hospital-readmission-risk-adrrcqkzkrnb4qepwyvvjl.streamlit.app/) — open it, fill the discharge form, get 30-day risk + follow-up checklist. Or run locally with `streamlit run app.py`.
 
 **Artifacts in this folder:** `notebook.ipynb` (runs top-to-bottom), `train.py`, `app.py`, `models/model.joblib`, `models/metrics.json`, `slides.md`, this README.
 
